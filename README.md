@@ -43,6 +43,5 @@ J'ai conçu l'infrastructure de données et le système de progression du projet
 ## Détails techniques – Leonardo Dib
 
 - **Moteur Logique : Développement complet du système de cycles Pomodoro (travail / pause) et gestion des timers.**
-- **Logique de Gamification : Conception du système de calcul de points.**
 - **Outillage et Workflow : Création de fonctionnalités d'administration internes pour faciliter les phases de test et la gestion des données de session.**
 - **Optimisation du développement : Automatisation de la réinitialisation des environnements de test pour fluidifier le travail de l'équipe.**
