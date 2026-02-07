@@ -34,8 +34,8 @@ J'ai implémenté :
 
 J'ai conçu l'infrastructure de données et le système de progression du projet :
 
-### Authentification et Persistance de Session
+- **Authentification et Persistance de Session
 
-### Système de Collection et Gamification
+- **Système de Collection et Gamification
 
-### Stack Technique : Supabase (BaaS), Properties.Settings & Global Variables
+- **Stack Technique : Supabase (BaaS), Properties.Settings & Global Variables
